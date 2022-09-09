@@ -4,6 +4,7 @@ Create a tool to boot an IDE an any peice of hardware with IO
 
 ## Tutorials
 
+*  https://notes.eatonphil.com/bootloader-basics.html
 * http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
 * https://osblog.stephenmarz.com/
 
@@ -23,3 +24,4 @@ Create a tool to boot an IDE an any peice of hardware with IO
 * http://mbldr.sourceforge.net/
 * https://kazlauskas.me/entries/x64-uefi-os-1
 * https://github.com/Overv/MineAssemble
+* https://github.com/mcu-tools/mcuboot
