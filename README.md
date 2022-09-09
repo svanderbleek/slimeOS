@@ -2,6 +2,10 @@
 
 Create a tool to boot an IDE an any peice of hardware with IO
 
+## Tutorials
+
+* http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
+
 ## Background
 
 * BEERR: Bench of Embedded system Experiments for Reproducible Research
