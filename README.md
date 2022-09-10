@@ -49,6 +49,8 @@ Create a tool to boot an IDE an any peice of hardware with IO
 * https://www.tianocore.org/
 * https://microsoft.github.io/mu/
 * https://openwrt.org/toh/views/toh_admin_bootloader
+* https://www.freertos.org/
+* https://www.riot-os.org/
 
 ## Related
 
