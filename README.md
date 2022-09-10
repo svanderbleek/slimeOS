@@ -12,6 +12,16 @@ Create a tool to boot an IDE an any peice of hardware with IO
 * http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
 * https://osblog.stephenmarz.com/
 
+## Hardware
+
+* https://1bitsy.org/
+* https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-V2.0.html
+* https://www.st.com/en/evaluation-tools/nucleo-l496zg-p.html
+* https://www.ti.com/product/CC2538
+* https://predictabledesigns.com/introduction-stm32-blue-pill-stm32duino/
+* https://www.avnet.com/shop/us/products/nordic-semiconductor/nrf9160-dk-3074457345642021725?&r=AMER&CMP=AVNET-AMER-PPC-GUS-AVE14-SKU-Others-16871318138-133381679217|mkwid|s_dc|pcrid|592663002900|pkw|nrf9160%20dk|pmt|p|slid||prd||pgrid|133381679217|ptaid|kwd-621118479732|
+* https://longan.sipeed.com/en/
+
 ## Background
 
 * BEERR: Bench of Embedded system Experiments for Reproducible Research
