@@ -62,3 +62,4 @@ Create a tool to boot an IDE an any peice of hardware with IO
 * http://microvm.github.io/
 * https://pdos.csail.mit.edu/6.828/2014/xv6.html
 * https://musl.libc.org/
+* https://freemint.github.io/
