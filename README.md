@@ -52,6 +52,10 @@ Create a tool to boot an IDE an any peice of hardware with IO
 * https://www.freertos.org/
 * https://www.riot-os.org/
 
+## Language
+
+* Functional Bits: Lambda Calculus based Algorithmic Information Theory https://tromp.github.io/cl/LC.pdf
+
 ## Related
 
 * https://www.drone-os.com/
