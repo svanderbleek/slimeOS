@@ -24,6 +24,7 @@ Create a tool to boot an IDE an any peice of hardware with IO
 
 ## Background
 
+* https://edk2-docs.gitbook.io/understanding-the-uefi-secure-boot-chain/
 * BEERR: Bench of Embedded system Experiments for Reproducible Research
 * Off-the-shelf Embedded Devices as Platforms for Security Research
 * P2IM: Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling
