@@ -68,3 +68,4 @@ Create a tool to boot an IDE an any peice of hardware with IO
 * harmonyos
 * bespin
 * enzian
+* oxide
